@@ -11,8 +11,8 @@
       "name": "Stablecoin",
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
-    "PSU_coins": {
-      "name": "Prince of Songkla's coins",
+    "PSU": {
+      "name": "PSUcoin",
       "description": "Tokens created by BLOCK team at PSU Phuket"
     }
   },
@@ -37,7 +37,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/tanwaarpornthip/psucoin-uniswap/master/logo/psu.png",
       "tags": [
-        "PSU_coins"
+        "PSU"
       ]
     }
   ],
