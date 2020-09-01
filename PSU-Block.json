@@ -1,5 +1,5 @@
 {
-  "name": "Prince of Songkla - Phuket",
+  "name": "PSU Phuket",
   "logoURI": "ipfs://Qmboex5TuiedUjjCDqTYd52e7kQ5ouQmP2pC6AGxrkzA2V",
   "keywords": [
     "special tokens",
@@ -11,7 +11,7 @@
       "name": "Stablecoin",
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
-    "PSU coins": {
+    "PSU_coins": {
       "name": "Prince of Songkla's coins",
       "description": "Tokens created by BLOCK team at PSU Phuket"
     }
