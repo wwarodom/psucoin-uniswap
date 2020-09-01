@@ -1,0 +1,49 @@
+{
+  "name": "Prince of Songkla - Phuket",
+  "logoURI": "ipfs://Qmboex5TuiedUjjCDqTYd52e7kQ5ouQmP2pC6AGxrkzA2V",
+  "keywords": [
+    "special tokens",
+    "Prince of Songkla",
+    "BLOCK team"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "PSU coins": {
+      "name": "Prince of Songkla's coins",
+      "description": "Tokens created by BLOCK team at PSU Phuket"
+    }
+  },
+  "timestamp": "2020-09-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xc4375b7de8af5a38a93548eb8453a498222c4ff2",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0d01bc6041ac8f72e1e4b831714282f755012764",
+      "symbol": "PSU",
+      "name": "PSU Coin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/tanwaarpornthip/psucoin-uniswap/master/logo/psu.png",
+      "tags": [
+        "PSU coins"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
